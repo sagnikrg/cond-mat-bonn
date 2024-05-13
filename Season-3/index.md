@@ -34,16 +34,9 @@ The Visitor Gieger Counter :
 
 | Speaker           | Date    | Title |
 | :---------------- | :------ | :---- |
-| **1.** Dr. Franco Lisandrini (AG Kollath) | October 18, 2023 (Wednesday)| Partially disordered Hiesenberg antiferromagnet with short range stripe correlations |
-| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-2/Franco_Slides.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-2#abs_franco)] |
-| **2.**Kriti Baweja (AG Luitz)  | November 08, 2023 (Wednesday)| Weak measurements in the ground state of 2-D Antiferromagnetic Heisenberg model| 
-| | | [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-2/Kriti_Slides.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-2#abs_kriti)] |
-| **3.**Julien Breiher  (AG Luitz) | November 15, 2023 (Wednesday)| The simulation of Clifford Circuits : The Gottesman-Knill theorem| 
-| | | [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-2/Julien_Slides.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-2#abs_julien)] |
-| **4.**Michael Hübner, Oliver Freyermuth  (IT Dept.)  | November 29, 2023 (Wednesday)| News from the IT department and Cluster Computing | 
-| | | [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-2/Oliver_Slides.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-2#abs_oliver)] |
-| **5.**Dr. Sayak Ray (AG Kroha) | December 06, 2023 (Wednesday)|   Bistability dynamics in the dissipative Dicke-Bose-Hubbard system |
-| | | [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-2/Sayak_Slides.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-2#abs_sayak)] |
+| **1.** Dr. Franco Lisandrini (AG Kollath) | May 08, 2024 (Wednesday)| Partially disordered Hiesenberg antiferromagnet with short range stripe correlations |
+| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/Franco_Slides.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_franco)] |
+| **2.**Julien Breiher (AG Luitz) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif)  | May 15, 2023 (Wednesday)| TBA | 
 
 
 
