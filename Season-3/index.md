@@ -8,7 +8,7 @@ We are now in the second year of the Journal Club. Details about talks from the 
 
 [Season 1: WiSe22-SoSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-1/)\
 [Season 2: WiSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-2/)\
-[Season 3: SoSe24](https://sagnikrg.github.io/cond-mat-bonn/Season-3/)\
+[Season 3: SoSe24](https://sagnikrg.github.io/cond-mat-bonn/Season-3/)
 
 
 ![Alt Text](https://web.archive.org/web/20091027035613/http://geocities.com/sjfarthing/graphics/any_browser_computer.gif)
