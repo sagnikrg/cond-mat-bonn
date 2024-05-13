@@ -35,7 +35,7 @@ The Visitor Gieger Counter :
 | :---------------- | :------ | :---- |
 | **1.** Dr. Franco Lisandrini (AG Kollath) | May 08, 2024 (Wednesday)| Finite-temperature Simulations with Stochastic Matrix Product States |
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-2/Franco_Slides.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-2#abs_franco)] |
-| **2.**Julien Breiher (AG Luitz)  | May 15, 2023 (Wednesday)| TBA| 
+| **2.**Julien Breiher (AG Luitz) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif) | May 15, 2023 (Wednesday)| TBA| 
 <!--| | | [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-2/Julien_Slides.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-2#abs_julien)] |
  This is a comment in Markdown and it will not appear in the output. -->
 
