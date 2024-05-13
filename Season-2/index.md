@@ -15,19 +15,7 @@ We are now in the second year of the Journal Club. Details about talks from the 
 ![Alt Text](https://web.archive.org/web/20091027035613/http://geocities.com/sjfarthing/graphics/any_browser_computer.gif)
 
 
-Want to get updates about regular talks? Join our mailing list:
 
-![Alt Text](https://web.archive.org/web/20091026221833/http://geocities.com/supremefan/background/email.gif)
-
-
-[[listen.uni-bonn.de/wws/subscribe](
-https://listen.uni-bonn.de/wws/subscribe/cond-mat-bonn?previous_action=info
-)]
-
-
-The Visitor Gieger Counter :
-
-![Visitor Count](https://profile-counter.glitch.me/{sagnikiiser}/count.svg)
 
 ## Talks This Season:
 
