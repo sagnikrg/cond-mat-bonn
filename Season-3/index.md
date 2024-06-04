@@ -35,8 +35,9 @@ The Visitor Gieger Counter :
 | Speaker           | Date    | Title |
 | :---------------- | :------ | :---- |
 | **1.** Dr. Franco Lisandrini (AG Kollath) | May 08, 2024 (Wednesday)| Partially disordered Hiesenberg antiferromagnet with short range stripe correlations |
-| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/Franco_Slides.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_franco)] |
-| **2.**Julien Breiher (AG Luitz) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif)  | May 15, 2023 (Wednesday)| TBA | 
+| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/FrancoLisandrini_JC_08052024.pdf],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_franco)] |
+| **2.**Julien Breiher (AG Luitz) | May 15, 2023 (Wednesday)| Transversal Injection: Using the Surface Code to Prepare Non-Pauli Eigenstates  |
+| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/JulienBréhier_JC_15052024.html],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_julien)] |
 
 
 
@@ -75,7 +76,7 @@ The Visitor Gieger Counter :
 
  
  
-**Title:**  TBA
+**Title:**  Transversal Injection: Using the Surface Code to Prepare Non-Pauli Eigenstates 
 
 **Speaker:** Julien Breiher (AG Luitz) 
 
@@ -84,7 +85,7 @@ The Visitor Gieger Counter :
 
 <details open>
 <summary> </summary>
-<br>  
+<br>  In order to perform large scale Quantum Computing, one would need qubits with error rates on the order of 1e-20. Although Quantum Error Correction can help mitigate the error rate problem for the memory part of the computation, the implementation of gates and the initialization of states stays a big problem to solve with several explored avenues. In this Journal Club we will look at a classical algorithm developed using `Transversal Injection' to prepare the logical system in non Pauli eigenstates in the hopes of attaining Universal Quantum Computation. We will demonstrate this idea on the simple example of the surface code.
 </details>
 
 
