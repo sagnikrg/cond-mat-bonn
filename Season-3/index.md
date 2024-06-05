@@ -63,7 +63,8 @@ The Visitor Gieger Counter :
 
 **Speaker:**  Dr. Franco Lisandrini (AG Kollath)
 
-**Abstract:** 
+**Reference:**
+
 <a name="abs_franco"></a>
 
 <details open>
@@ -71,6 +72,8 @@ The Visitor Gieger Counter :
 <br>  In this JC talk I will present Stochastic MPS, a method for simulating finite-temperate (quasi-)one-dimensional systems proposed in a preprint from last December (https://arxiv.org/abs/2312.04420). Before that, I will briefly introduce other finite-temperature methods commonly used with MPS (Purification and METTS).
 
 </details>
+
+**Reference:** https://arxiv.org/abs/2312.04420
 
 
 **2. May 15, 2024 (Wednesday)**
@@ -89,7 +92,7 @@ The Visitor Gieger Counter :
 <br>  In order to perform large scale Quantum Computing, one would need qubits with error rates on the order of 1e-20. Although Quantum Error Correction can help mitigate the error rate problem for the memory part of the computation, the implementation of gates and the initialization of states stays a big problem to solve with several explored avenues. In this Journal Club we will look at a classical algorithm developed using `Transversal Injection' to prepare the logical system in non Pauli eigenstates in the hopes of attaining Universal Quantum Computation. We will demonstrate this idea on the simple example of the surface code.
 </details>
 
-
+**Reference:** https://arxiv.org/pdf/2404.01301
 
 
 
