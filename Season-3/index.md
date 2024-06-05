@@ -34,10 +34,11 @@ The Visitor Gieger Counter :
 
 | Speaker           | Date    | Title |
 | :---------------- | :------ | :---- |
-| **1.** Dr. Franco Lisandrini (AG Kollath) | May 08, 2024 (Wednesday)| Partially disordered Hiesenberg antiferromagnet with short range stripe correlations |
-| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/FrancoLisandrini_JC_08052024.pdf],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_franco)] |
-| **2.**Julien Breiher (AG Luitz) | May 15, 2023 (Wednesday)| Transversal Injection: Using the Surface Code to Prepare Non-Pauli Eigenstates  |
-| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/JulienBréhier_JC_15052024.html],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_julien)] |
+| **1.** Dr. Franco Lisandrini (AG Kollath) | May 08, 2024 (Wednesday)| Finite-temperature Simulations with Stochastic Matrix Product States |
+| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/FrancoLisandrini_JC_08052024.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_franco)] |
+| **2.** Julien Breiher (AG Luitz) | May 15, 2023 (Wednesday)| Transversal Injection: Using the Surface Code to Prepare Non-Pauli Eigenstates  |
+| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/JulienBréhier_JC_15052024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_julien)] |
+
 
 
 
