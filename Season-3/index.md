@@ -36,7 +36,9 @@ The Visitor Gieger Counter :
 | :---------------- | :------ | :---- |
 | **1.** Dr. Franco Lisandrini (AG Kollath) | May 08, 2024 (Wednesday)| Finite-temperature Simulations with Stochastic Matrix Product States |
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/FrancoLisandrini_JC_08052024.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_franco)] |
-| **2.** Julien Breiher (AG Luitz) | May 15, 2023 (Wednesday)| Transversal Injection: Using the Surface Code to Prepare Non-Pauli Eigenstates  |
+| **2.** Julien Breiher (AG Luitz) | May 15, 2024 (Wednesday)| Transversal Injection: Using the Surface Code to Prepare Non-Pauli Eigenstates  |
+| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/JulienBréhier_JC_15052024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_julien)] |
+| **3.** Sagnik Ghosh (AG Luitz) | June 5, 2024 (Wednesday)| Discrete time-crystals in linear potentials  |
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/JulienBréhier_JC_15052024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_julien)] |
 
 
@@ -93,6 +95,24 @@ The Visitor Gieger Counter :
 
 **Reference:** https://arxiv.org/pdf/2404.01301
 
+
+
+**3. June 5, 2024 (Wednesday)**
+
+ 
+**Title:**  Discrete time-crystals in linear potentials 
+
+**Speaker:** Sagnik Ghosh (AG Luitz) 
+
+**Abstract:** 
+<a name="abs_julien"></a>
+
+<details open>
+<summary> </summary>
+<br>  Discrete time crystalline (DTC) phases require a seemingly impossible combination of non-adiabatic driving and a finite-entropy long-time state, which is, however, possible in non-ergodic systems. Previous works have often relied on disorder for the required non-ergodicity; here, we describe the construction of a DTC phase in non-disordered, non-integrable Ising-type systems. After discussing the conditions for interacting and periodically driven systems to display such phases in general, we propose a concrete model and then provide approximate analytical arguments and direct numerical evidence that it satisfies the conditions and displays a DTC phase robust to local periodic perturbations. 
+</details>
+
+**Reference:** https://arxiv.org/abs/2403.01912
 
 
  
