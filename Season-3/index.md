@@ -63,8 +63,7 @@ The Visitor Gieger Counter :
 
 **Speaker:**  Dr. Franco Lisandrini (AG Kollath)
 
-**Reference:**
-
+**Abstract:** 
 <a name="abs_franco"></a>
 
 <details open>
