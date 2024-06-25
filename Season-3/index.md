@@ -39,7 +39,9 @@ The Visitor Gieger Counter :
 | **2.** Julien Breiher (AG Luitz) | May 15, 2024 (Wednesday)| Transversal Injection: Using the Surface Code to Prepare Non-Pauli Eigenstates  |
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/JulienBréhier_JC_15052024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_julien)] |
 | **3.** Sagnik Ghosh (AG Luitz) | June 5, 2024 (Wednesday)| Discrete time-crystals in linear potentials  |
-| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/JulienBréhier_JC_15052024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_julien)] |
+| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/SagnikGhosh_JC_05062024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_sagnik)] |
+| **3.** Maxime Debertolis (AG Luitz) | June 19, 2024 (Wednesday)| Computational supremacy in quantum simulation  |
+| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/file:///home/mgisti/Downloads/slides-deck-cb694d.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_maxime)] |
 
 
 
@@ -105,7 +107,7 @@ The Visitor Gieger Counter :
 **Speaker:** Sagnik Ghosh (AG Luitz) 
 
 **Abstract:** 
-<a name="abs_julien"></a>
+<a name="abs_sagnik"></a>
 
 <details open>
 <summary> </summary>
@@ -117,6 +119,19 @@ The Visitor Gieger Counter :
 
  
 
+**Title:**  Computational supremacy in quantum simulation 
+
+**Speaker:** Dr. Maxime Debertolis (AG Luitz) 
+
+**Abstract:** 
+<a name="abs_maxime"></a>
+
+<details open>
+<summary> </summary>
+<br>  Quantum computers hold the promise of solving certain problems that lie beyond the reach of conventional computers. Establishing this capability, especially for impactful and meaningful prob- lems, remains a central challenge. One such problem is the simulation of nonequilibrium dynamics of a magnetic spin system quenched through a quantum phase transition. State-of-the-art classi- cal simulations demand resources that grow exponentially with system size. Here we show that superconducting quantum annealing processors can rapidly generate samples in close agreement with solutions of the Schr¨odinger equation. We demonstrate area-law scaling of entanglement in the model quench in two-, three- and infinite-dimensional spin glasses, supporting the observed stretched-exponential scaling of effort for classical approaches. We assess approximate methods based on tensor networks and neural networks and conclude that no known approach can achieve the same accuracy as the quantum annealer within a reasonable timeframe. Thus quantum annealers can answer questions of practical importance that classical computers cannot.
+</details>
+
+**Reference:** https://arxiv.org/abs/2403.00910
 
 
 
