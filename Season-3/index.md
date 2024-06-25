@@ -1,8 +1,7 @@
 # Journal Club on Condendensed Matter Theory 
 ## Physikalisches Institut, Universität Bonn
 
-![Thumbnail](institutelogo.png)
-![Thumbnail](logo.png)
+![Thumbnail](institutelogo.png)                                                              ![Thumbnail](logo.png)
 
 We are now in the second year of the Journal Club. Details about talks from the previous season can be found here. 
 
