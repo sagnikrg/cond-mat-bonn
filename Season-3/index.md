@@ -42,7 +42,7 @@ The Visitor Gieger Counter :
 | **3.** Sagnik Ghosh (AG Luitz) | June 5, 2024 (Wednesday)| Discrete time-crystals in linear potentials  |
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/SagnikGhosh_JC_05062024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_sagnik)] |
 | **3.** Dr. Maxime Debertolis (AG Luitz) | June 19, 2024 (Wednesday)| Computational supremacy in quantum simulation  |
-| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/MaximeDebertolis_JC_19062024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_maxime)] |
+| | |  [[Slides](slides-deck-cb694d.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_maxime)] |
 
 
 
