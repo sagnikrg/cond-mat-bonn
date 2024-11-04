@@ -40,10 +40,11 @@ The Visitor Gieger Counter :
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/JulienBréhier_JC_15052024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_julien)] |
 | **3.** Sagnik Ghosh (AG Luitz) | June 5, 2024 (Wednesday)| Discrete time-crystals in linear potentials  |
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/SagnikGhosh_JC_05062024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_sagnik)] |
-| **3.** Dr. Maxime Debertolis (AG Luitz) | June 19, 2024 (Wednesday)| Computational supremacy in quantum simulation  |
+| **4.** Dr. Maxime Debertolis (AG Luitz) | June 19, 2024 (Wednesday)| Computational supremacy in quantum simulation  |
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/MaximeDebertolis_JC_19062024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_maxime)] |
 
-
+| **8.** Dr. Simon Balthasar Jäger (AG Kollath) | Oktober 30, 2024 (Wednesday)| Atom-only descriptions of atom-cavity systems  |
+| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/SimonJäger_JC_30102024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_simon)] |
 
 
 
@@ -135,3 +136,14 @@ The Visitor Gieger Counter :
 
 
 
+**Title:**  Atom-only descriptions of atom-cavity systems 
+
+**Speaker:** Dr. Simon Balthasar Jäger (AG Kollath) 
+
+**Abstract:** 
+<a name="abs_simon"></a>
+
+<details open>
+<summary> </summary>
+<br>  We present a general approach to derive Lindblad master equations for a subsystem whose dynamics is coupled to dissipative bosonic modes. The derivation relies on a Schrieffer-Wolff transformation which allows to eliminate the bosonic degrees of freedom after self-consistently determining their state as a function of the coupled quantum system. We apply this formalism to the dissipative Dicke model and derive a Lindblad master equation for the atomic spins, which includes the coherent and dissipative interactions mediated by the bosonic mode. In addition, we also provide an overview of more complex systems where this method can be applied to including the description of ground-state cavity cooling of interacting spins and interaction and dissipation engineering of spins interacting with an array of cavities.
+</details>
