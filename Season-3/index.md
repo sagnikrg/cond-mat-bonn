@@ -42,7 +42,7 @@ The Visitor Gieger Counter :
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/SagnikGhosh_JC_05062024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_sagnik)] |
 | **4.** Dr. Maxime Debertolis (AG Luitz) | June 19, 2024 (Wednesday)| Computational supremacy in quantum simulation  |
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/MaximeDebertolis_JC_19062024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_maxime)] |
-| **8.** Dr. Simon Balthasar Jäger (AG Kollath) | Oktober 30, 2024 (Wednesday)| Atom-only descriptions of atom-cavity systems  |
+| **8.** Dr. Simon Balthasar Jäger (AG Kollath) | October 30, 2024 (Wednesday)| Atom-only descriptions of atom-cavity systems  |
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/SimonJäger_JC_30102024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_simon)] |
 
 
