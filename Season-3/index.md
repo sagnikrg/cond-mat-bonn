@@ -79,7 +79,7 @@ The Visitor Gieger Counter :
 
 
 **2. May 15, 2024 (Wednesday)**
-
+__________________________________________________________________________________________
  
  
 **Title:**  Transversal Injection: Using the Surface Code to Prepare Non-Pauli Eigenstates 
