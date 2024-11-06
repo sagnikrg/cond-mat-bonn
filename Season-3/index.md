@@ -44,6 +44,8 @@ The Visitor Gieger Counter :
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/MaximeDebertolis_JC_19062024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_maxime)] |
 | **8.** Dr. Simon Balthasar Jäger (AG Kollath) | October 30, 2024 (Wednesday)| Atom-only descriptions of atom-cavity systems  |
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/SimonJäger_JC_30102024.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_simon)] |
+| **9.** Sagnik Ghosh (AG Luitz) | November 06 , 2024 (Wednesday)| Replica Trick, Symmetry and Breaking in context of Measurement Induced Phase Transitions: A very brief intro  |
+| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/sagnik_slides)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_sagnik)] |
 
 
 
@@ -155,3 +157,24 @@ The Visitor Gieger Counter :
 <summary> </summary>
 <br>  We present a general approach to derive Lindblad master equations for a subsystem whose dynamics is coupled to dissipative bosonic modes. The derivation relies on a Schrieffer-Wolff transformation which allows to eliminate the bosonic degrees of freedom after self-consistently determining their state as a function of the coupled quantum system. We apply this formalism to the dissipative Dicke model and derive a Lindblad master equation for the atomic spins, which includes the coherent and dissipative interactions mediated by the bosonic mode. In addition, we also provide an overview of more complex systems where this method can be applied to including the description of ground-state cavity cooling of interacting spins and interaction and dissipation engineering of spins interacting with an array of cavities.
 </details>
+
+**__________________________________________________________________________________________**
+**__________________________________________________________________________________________**
+
+
+
+**Title:**  Replica Trick, Symmetry and Breaking in context of Measurement Induced Phase Transitions: A very brief intro
+
+**Speaker:** Sagnik Ghosh (AG Luitz) 
+
+**Abstract:** 
+<a name="abs_sagnik"></a>
+
+<details open>
+<summary> </summary>
+<br>  I decided to do this talk cause somehow, I got asked about replica tricks by four different people in last two months and seems like there is a renewed interest in our group with the replica trick. In this talk I will briefly formulate the replica trick, why it works and in what situations its useful, and what are the correct limits in which situation. We would carry out an example of applications of the replica trick in the context of Sherrington-Kirkpatrick model and develop the notion of Replica symmetry, its breaking and set up the recovery of correct results with the Parisi scheme. Then we would turn to Replicas in the Measurement Induced Phase Transition Problem and discuss why the relevant replica limits here are different than for system with quenched disorder. Most of the materials I cover are due to Georgio Parisi et. al. and Adam Nahum et. al.
+</details>
+
+<a name="sagnik_slides"></a>
+
+<iframe src="https://slides.com/sagnikghosh/replicatrick/embed?token=q1kb4-FQ" width="576" height="420" title="Replica Trick" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
