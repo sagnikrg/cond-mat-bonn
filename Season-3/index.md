@@ -39,7 +39,7 @@ The Visitor Gieger Counter :
 | **2.** Julien Breiher (AG Luitz) | May 15, 2024 (Wednesday)| Transversal Injection: Using the Surface Code to Prepare Non-Pauli Eigenstates  |
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/JulienBréhier_JC_15052024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_julien)] |
 | **3.** Sagnik Ghosh (AG Luitz) | June 5, 2024 (Wednesday)| Discrete time-crystals in linear potentials  |
-| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/SagnikGhosh_JC_05062024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_sagnik)] |
+| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/sagnik_slides1)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_sagnik)] |
 | **4.** Dr. Maxime Debertolis (AG Luitz) | June 19, 2024 (Wednesday)| Computational supremacy in quantum simulation  |
 | | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/MaximeDebertolis_JC_19062024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_maxime)] |
 | **8.** Dr. Simon Balthasar Jäger (AG Kollath) | October 30, 2024 (Wednesday)| Atom-only descriptions of atom-cavity systems  |
@@ -120,6 +120,8 @@ The Visitor Gieger Counter :
 </details>
 
 **Reference:** https://arxiv.org/abs/2403.01912
+
+<iframe src="https://slides.com/sagnikghosh/deck-c1af6d/embed?token=m_DPyLEN" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 **__________________________________________________________________________________________**
