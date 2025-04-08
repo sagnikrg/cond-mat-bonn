@@ -1,7 +1,7 @@
-## The Bonn Journal Club on Condendensed Matter Theory \ Physikalisches Institut, Uni Bonn
 
 <img src="coffeeraum.jpg" alt="Coffeeraum" style="width: 100%; display: block; margin-bottom: 0.2em;" />
 <p style="font-style: italic; text-align: left; margin-top: 0;">Image ©: Sagnik Ghosh</p>
+
 
 
 
