@@ -9,7 +9,8 @@ This page now functions as the archive for the season 1 talks. Other Seasons can
 
 [Season 1: WiSe22-SoSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-1/)\
 [Season 2: WiSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-2/)\
-[Season 3: SoSe24](https://sagnikrg.github.io/cond-mat-bonn/Season-3/)
+[Season 3: SoSe24](https://sagnikrg.github.io/cond-mat-bonn/Season-3/)\
+[Season 4: SoSe25](https://sagnikrg.github.io/cond-mat-bonn/Season-4/)
 
 
 ![Alt Text](https://web.archive.org/web/20091027035613/http://geocities.com/sjfarthing/graphics/any_browser_computer.gif)
