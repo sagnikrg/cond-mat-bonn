@@ -1,26 +1,23 @@
 ## The Bonn Journal Club on Condendensed Matter Theory \ Physikalisches Institut, Uni Bonn
 
-![Thumbnail](institutelogo.png)
-![Thumbnail](logo.png)
+<img src="coffeeraum.jpg" alt="Coffeeraum" style="width: 100%; display: block; margin-bottom: 0.2em;" />
+<p style="font-style: italic; text-align: left; margin-top: 0;">Image ©: Sagnik Ghosh</p>
 
 
 
-The Condensed Matter Journal Club ususally meets \ 
+
+The Condensed Matter Journal Club ususally meets 
+
 every **Wednesday** at **11:00 AM (sharp!)** 
 
 In the PI 3rd floor coffee room (PI 3.014)
 
 Usually when the academic semester is on!
 
-<img src="coffeeraum.jpg" alt="Coffeeraum" style="width: 100%; display: block; margin-bottom: 0.2em;" />
-<p style="font-style: italic; text-align: left; margin-top: 0;">Image ©: Sagnik Ghosh</p>
 
-## Journal Club Archive:
+![Thumbnail](institutelogo.png)
+![Thumbnail](logo.png)
 
-[Season 1: WiSe22-SoSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-1/)\
-[Season 2: WiSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-2/)\
-[Season 3: SoSe24](https://sagnikrg.github.io/cond-mat-bonn/Season-3/)\
-[Season 4: SoSe25](https://sagnikrg.github.io/cond-mat-bonn/Season-4/)
 
 
 ![Alt Text](https://web.archive.org/web/20091027035613/http://geocities.com/sjfarthing/graphics/any_browser_computer.gif)
@@ -36,10 +33,6 @@ https://listen.uni-bonn.de/wws/subscribe/cond-mat-bonn?previous_action=info
 )]
 
 
-The Visitor Gieger Counter :
-
-![Visitor Count](https://profile-counter.glitch.me/{sagnikiiser}/count.svg)
-
 
 ## Talks This Season:
 
@@ -51,8 +44,16 @@ The Visitor Gieger Counter :
 
 
 
+The Visitor Gieger Counter :
 
+![Visitor Count](https://profile-counter.glitch.me/{sagnikiiser}/count.svg)
 
+## Journal Club Archive:
+
+[Season 1: WiSe22-SoSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-1/)\
+[Season 2: WiSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-2/)\
+[Season 3: SoSe24](https://sagnikrg.github.io/cond-mat-bonn/Season-3/)\
+[Season 4: SoSe25](https://sagnikrg.github.io/cond-mat-bonn/Season-4/)
 
 
 <!--| **2.**Julien Breiher (AG Luitz)  | May 15, 2023 (Wednesday)| TBA| 
