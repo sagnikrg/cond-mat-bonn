@@ -35,8 +35,8 @@ There is a permanent Indico Instance:
 
 [https://indico.hiskp.uni-bonn.de/category/37](https://indico.hiskp.uni-bonn.de/category/37/)
 
-<img src="indico.png" alt="Indico Calendar" style="width: 50%;">
 
+![Thumbnail](indico.png)
 
 
 
