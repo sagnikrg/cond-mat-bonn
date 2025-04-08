@@ -31,6 +31,10 @@ https://listen.uni-bonn.de/wws/subscribe/cond-mat-bonn?previous_action=info
 )]
 
 
+There is a permanent Indico Instance:
+![Thumbnail](indico.png)
+
+(https://indico.hiskp.uni-bonn.de/category/37/)
 
 ## Talks This Season:
 
