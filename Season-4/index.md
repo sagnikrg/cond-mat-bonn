@@ -3,8 +3,15 @@
 ![Thumbnail](institutelogo.png)
 ![Thumbnail](logo.png)
 
-We are now in the third year of the Journal Club. Details about talks from the previous season can be found here. 
+We are now in the third year of the Journal Club! 
 
+The Condensed Matter Journal Club ususally meets every **Wednesday** at **11:00 AM (sharp!)** \
+In the PI 3rd floor coffee room (PI 3.014)
+
+Usually when the academic semester is on!
+
+
+## Journal Club Archive:
 
 [Season 1: WiSe22-SoSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-1/)\
 [Season 2: WiSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-2/)\
