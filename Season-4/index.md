@@ -33,9 +33,35 @@ https://listen.uni-bonn.de/wws/subscribe/cond-mat-bonn?previous_action=info
 
 There is a permanent Indico Instance:
 
-![Thumbnail](indico.png)
-
 [https://indico.hiskp.uni-bonn.de/category/37](https://indico.hiskp.uni-bonn.de/category/37/)
+
+<img src="indico.png" alt="Indico Calendar" style="width: 50%;">
+
+
+
+![Alt Text](https://web.archive.org/web/20000919125923/http://www.geocities.com:80/SiliconValley/Garage/3715/calender.gif)
+
+
+You can also directly use this ical link to sync events to your own calender:
+
+<p>
+  <strong>Calendar Link:</strong>
+  <code id="calendarLink">https://indico.hiskp.uni-bonn.de/category/37/events.ics</code>
+  <button onclick="copyToClipboard()">Copy</button>
+</p>
+
+<script>
+  function copyToClipboard() {
+    const text = document.getElementById("calendarLink").innerText;
+    navigator.clipboard.writeText(text).then(() => {
+      alert("Link copied to clipboard!");
+    }).catch(err => {
+      console.error("Failed to copy: ", err);
+    });
+  }
+</script>
+
+
 
 ## Talks This Season:
 
