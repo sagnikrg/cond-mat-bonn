@@ -5,9 +5,9 @@
 
 We are now in the third year of the Journal Club! 
 
-The Condensed Matter Journal Club ususally meets\
+The Condensed Matter Journal Club ususally meets
 
-every **Wednesday** at **11:00 AM (sharp!)** \
+every **Wednesday** at **11:00 AM (sharp!)** 
 
 In the PI 3rd floor coffee room (PI 3.014)
 
