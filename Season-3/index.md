@@ -5,7 +5,6 @@
 
 We are now in the second year of the Journal Club. Details about talks from the previous season can be found here. 
 
-
 [Season 1: WiSe22-SoSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-1/)\
 [Season 2: WiSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-2/)\
 [Season 3: SoSe24](https://sagnikrg.github.io/cond-mat-bonn/Season-3/)\
@@ -36,17 +35,17 @@ The Visitor Gieger Counter :
 | Speaker           | Date    | Title |
 | :---------------- | :------ | :---- |
 | **1.** Dr. Franco Lisandrini (AG Kollath) | May 08, 2024 (Wednesday)| Finite-temperature Simulations with Stochastic Matrix Product States |
-| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/FrancoLisandrini_JC_08052024.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_franco)] |
+| | |  [[Slides](FrancoLisandrini_JC_08052024.pdf)],[[Abstract]( #abs_franco)] |
 | **2.** Julien Breiher (AG Luitz) | May 15, 2024 (Wednesday)| Transversal Injection: Using the Surface Code to Prepare Non-Pauli Eigenstates  |
-| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/JulienBréhier_JC_15052024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_julien)] |
+| | |  [[Slides]( JulienBréhier_JC_15052024.html)],[[Abstract]( #abs_julien)] |
 | **3.** Sagnik Ghosh (AG Luitz) | June 5, 2024 (Wednesday)| Discrete time-crystals in linear potentials  |
-| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/#sagnik_slides1)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_sagnik)] |
+| | |  [[Slides]( #sagnik_slides1)],[[Abstract]( #abs_sagnik)] |
 | **4.** Dr. Maxime Debertolis (AG Luitz) | June 19, 2024 (Wednesday)| Computational supremacy in quantum simulation  |
-| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/MaximeDebertolis_JC_19062024.html)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_maxime)] |
+| | |  [[Slides]( MaximeDebertolis_JC_19062024.html)],[[Abstract]( #abs_maxime)] |
 | **8.** Dr. Simon Balthasar Jäger (AG Kollath) | October 30, 2024 (Wednesday)| Atom-only descriptions of atom-cavity systems  |
-| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/SimonJäger_JC_30102024.pdf)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_simon)] |
+| | |  [[Slides]( SimonJäger_JC_30102024.pdf)],[[Abstract]( #abs_simon)] |
 | **9.** Sagnik Ghosh (AG Luitz) | November 06 , 2024 (Wednesday)| Replica Trick, Symmetry and Breaking in context of Measurement Induced Phase Transitions: A very brief intro  |
-| | |  [[Slides](https://sagnikrg.github.io/cond-mat-bonn/Season-3/#sagnik_slides2)],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-3#abs_sagnik2)] |
+| | |  [[Slides]( #sagnik_slides2)],[[Abstract]( #abs_sagnik2)] |
 
 
 <!--| **2.**Julien Breiher (AG Luitz) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif) | May 15, 2023 (Wednesday)| TBA| 
