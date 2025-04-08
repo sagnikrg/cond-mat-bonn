@@ -39,7 +39,7 @@ There is a permanent Indico Instance:
 
 
 
-![Alt Text](https://web.archive.org/web/20000919125923/http://www.geocities.com:80/SiliconValley/Garage/3715/calender.gif)
+
 
 
 You can also directly use this ical link to sync events to your own calender:
@@ -61,7 +61,7 @@ You can also directly use this ical link to sync events to your own calender:
   }
 </script>
 
-
+![Alt Text](https://web.archive.org/web/20000919125923/http://www.geocities.com:80/SiliconValley/Garage/3715/calender.gif)
 
 ## Talks This Season:
 
