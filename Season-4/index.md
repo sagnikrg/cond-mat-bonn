@@ -20,7 +20,7 @@ Usually when the academic semester is on!
 
 [Season 1: WiSe22-SoSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-1/)\
 [Season 2: WiSe23](https://sagnikrg.github.io/cond-mat-bonn/Season-2/)\
-[Season 3: SoSe24](https://sagnikrg.github.io/cond-mat-bonn/Season-3/)\
+[Season 3: SoSe24](Season-3/)\
 [Season 4: SoSe25](https://sagnikrg.github.io/cond-mat-bonn/Season-4/)
 
 
@@ -48,7 +48,7 @@ The Visitor Gieger Counter :
 | Speaker           | Date    | Title |
 | :---------------- | :------ | :---- |
 | **1.** Dr. Maxime Debertolis (AG Luitz) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif)| April 23, 2025 (Wednesday)| TBA |
-| | |  [[Slides]()],[[Abstract](https://sagnikrg.github.io/cond-mat-bonn/Season-4#abs_Maxime)] |
+| | |  [[Slides]()],[[Abstract](#abs_Maxime)] |
 
 
 
