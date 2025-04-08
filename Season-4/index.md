@@ -13,6 +13,8 @@ In the PI 3rd floor coffee room (PI 3.014)
 
 Usually when the academic semester is on!
 
+<img src="coffeeraum.jpg" alt="Coffeeraum" style="width: 100%; display: block; margin-bottom: 0.2em;" />
+<p style="font-style: italic; text-align: left; margin-top: 0;">Image ©: Sagnik Ghosh</p>
 
 ## Journal Club Archive:
 
