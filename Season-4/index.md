@@ -6,7 +6,7 @@
 
 
 
-The Condensed Matter Journal Club ususally meets every **Wednesday** at **11:00 AM (sharp!)** 
+The Condensed Matter Journal Club ususally meets every **Wednesday** at **12:15 AM** 
 
 In the PI 3rd floor coffee room (PI 3.014)
 
@@ -68,7 +68,7 @@ You can also directly use this ical link to sync events to your own calender:
 
 | Speaker           | Date    | Title |
 | :---------------- | :------ | :---- |
-| **1.** Dr. Maxime Debertolis (AG Luitz) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif)| April 23, 2025 (Wednesday)| TBA |
+| **1.** Dr. Maxime Debertolis (AG Luitz) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif)| April 30, 2025 (Wednesday)| TBA |
 | | |  [[Slides]()],[[Abstract](#abs_Maxime)] |
 
 
